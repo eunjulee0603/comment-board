@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/myspring/pro30/board/controller/BoardControllerImpl.java=UTF-8
+encoding//src/main/java/com/myspring/pro30/board/dao/BoardDAOImpl.java=UTF-8
+encoding//src/main/java/com/myspring/pro30/board/service/BoardServiceImpl.java=UTF-8
+encoding//src/main/java/com/myspring/pro30/board/vo/ArticleVO.java=UTF-8
+encoding//src/main/java/com/myspring/pro30/common/log/LoggingAdvice.java=UTF-8
