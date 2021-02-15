@@ -15,8 +15,8 @@
   </style>
 </head>
 <body>
-<p> e-mail:admin@test.com</p> 
-<p> 회사주소:서울시 강동구</p>
+<p> e-mail:eunjulee0603@gmail.com</p> 
+<p> phone:010-7622-5105</p>
 <p>찾아오는 길:<a href="#">약도</a></p>
 
 </body>
